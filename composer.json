@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "liliuwei\\think\\": "src/"
+            "houjit021\\think\\": "src/"
         }
     },
     "extra": {
