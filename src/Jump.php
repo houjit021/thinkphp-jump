@@ -1,12 +1,11 @@
 <?php
 /**
- * 厚匠社区团 - 团队十年电商经验汇集巨献!
- * =========================================================
- * Copy right 2019-2029 上海厚匠网络科技有限公司, 保留所有权利。
- * ----------------------------------------------
- * 官方网址: https://www.houjit.com
- * =========================================================
+ * Created by PhpStorm.
+ * User: liliuwei
+ * Date: 2019/5/23
+ * Time: 22:43
  */
+
 namespace houjit021\think;
 use think\exception\HttpResponseException;
 use think\App;
